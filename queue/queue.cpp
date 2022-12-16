@@ -72,3 +72,5 @@ void Cetak(){
             cout<<Q.Data[i] <<", ";
         }
 }
+
+// i have no idea how this works
